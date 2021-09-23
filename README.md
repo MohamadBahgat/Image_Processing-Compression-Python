@@ -1,4 +1,4 @@
-# Image_Processing-Truncated-Huffman-Code-Compression
+# Image_Processing-Truncated-Huffman-Code-Compression (Worked on it alone)
 Compression using Huffman Code on a gray scale image (Image Processing)
 Implement a function that applies the truncated Huffman coding compression to a gray-scale
 image. Your function should take the gray-scale image, K and J values as input and outputs
